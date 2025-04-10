@@ -1,1 +1,1 @@
-# rezinekotkiT
+calculating the correct prompt for given number of tokens.
